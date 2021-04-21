@@ -1,3 +1,3 @@
-Gold
-Minecraft
-EU4
+- item Gold
+- item Minecraft
+- item EU4
